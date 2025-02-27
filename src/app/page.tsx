@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 import { api, HydrateClient } from "~/trpc/server";
 import { LatestPost } from "./_components/latest-post";
 import { CreatePost } from "./_components/create-post";
